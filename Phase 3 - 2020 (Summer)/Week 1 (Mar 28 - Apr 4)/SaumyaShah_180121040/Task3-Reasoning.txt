@@ -1,0 +1,1 @@
+Features 1 and 2 are the features which can classify the *two labels* perfectly, since there is a very distinct curve on their plot(f1^2+f2^2=4 most probably) which sets both of the labels apart perfectly.
